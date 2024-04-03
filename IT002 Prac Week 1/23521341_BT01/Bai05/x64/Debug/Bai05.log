@@ -1,0 +1,5 @@
+﻿  Source_Bai05.cpp
+D:\Document\Study Vault\Subject Documents\IT002.O29\Practice\IT002 Prac Week 1\23521341_BT01\Bai05\Source_Bai05.cpp(55,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Document\Study Vault\Subject Documents\IT002.O29\Practice\IT002 Prac Week 1\23521341_BT01\Bai05\Source_Bai05.cpp(62,101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Document\Study Vault\Subject Documents\IT002.O29\Practice\IT002 Prac Week 1\23521341_BT01\Bai05\Source_Bai05.cpp(63,99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai05.vcxproj -> D:\Document\Study Vault\Subject Documents\IT002.O29\Practice\IT002 Prac Week 1\23521341_BT01\x64\Debug\Bai05.exe

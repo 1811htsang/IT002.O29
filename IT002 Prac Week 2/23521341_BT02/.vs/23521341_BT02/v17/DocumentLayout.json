@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158F90F3-9ED6-4867-A263-D6954BAB9235}|Bai01\\Bai01.vcxproj|D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\phanso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{158F90F3-9ED6-4867-A263-D6954BAB9235}|Bai01\\Bai01.vcxproj|solutionrelative:Bai01\\phanso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDC5F1E3-CB97-4C41-8CDA-E0551BEE6BF2}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158F90F3-9ED6-4867-A263-D6954BAB9235}|Bai01\\Bai01.vcxproj|D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{158F90F3-9ED6-4867-A263-D6954BAB9235}|Bai01\\Bai01.vcxproj|solutionrelative:Bai01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158F90F3-9ED6-4867-A263-D6954BAB9235}|Bai01\\Bai01.vcxproj|D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\phanso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{158F90F3-9ED6-4867-A263-D6954BAB9235}|Bai01\\Bai01.vcxproj|solutionrelative:Bai01\\phanso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "point.h",
+              "DocumentMoniker": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\point.h",
+              "RelativeDocumentMoniker": "Bai09\\point.h",
+              "ToolTip": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\point.h",
+              "RelativeToolTip": "Bai09\\point.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T01:24:58.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "circle.h",
+              "DocumentMoniker": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\circle.h",
+              "RelativeDocumentMoniker": "Bai09\\circle.h",
+              "ToolTip": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\circle.h",
+              "RelativeToolTip": "Bai09\\circle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T01:24:54.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "circle.cpp",
+              "DocumentMoniker": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\circle.cpp",
+              "RelativeDocumentMoniker": "Bai09\\circle.cpp",
+              "ToolTip": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\circle.cpp",
+              "RelativeToolTip": "Bai09\\circle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T01:20:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\main.cpp",
+              "RelativeDocumentMoniker": "Bai09\\main.cpp",
+              "ToolTip": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai09\\main.cpp",
+              "RelativeToolTip": "Bai09\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T01:17:05.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "phanso.h",
+              "DocumentMoniker": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\phanso.h",
+              "RelativeDocumentMoniker": "Bai01\\phanso.h",
+              "ToolTip": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\phanso.h",
+              "RelativeToolTip": "Bai01\\phanso.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-19T05:27:38.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\main.cpp",
+              "RelativeDocumentMoniker": "Bai01\\main.cpp",
+              "ToolTip": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\main.cpp",
+              "RelativeToolTip": "Bai01\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T05:27:35.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "phanso.cpp",
+              "DocumentMoniker": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\phanso.cpp",
+              "RelativeDocumentMoniker": "Bai01\\phanso.cpp",
+              "ToolTip": "D:\\Document\\Code\\IT002 Practice\\IT002 Prac Week 2\\23521341_BT02\\Bai01\\phanso.cpp",
+              "RelativeToolTip": "Bai01\\phanso.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T05:27:26.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  sophuc.cpp
+D:\Document\Code\IT002 Practice\IT002 Prac Week 2\23521341_BT02\Bai05\sophuc.cpp(33,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Document\Code\IT002 Practice\IT002 Prac Week 2\23521341_BT02\Bai05\sophuc.cpp(40,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Document\Code\IT002 Practice\IT002 Prac Week 2\23521341_BT02\Bai05\sophuc.cpp(41,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Source_Bai05.cpp
+  Generating Code...
+  Bai05.vcxproj -> D:\Document\Code\IT002 Practice\IT002 Prac Week 2\23521341_BT02\x64\Debug\Bai05.exe

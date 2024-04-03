@@ -1,0 +1,4 @@
+﻿  Source_Bai09.cpp
+D:\Document\Study Vault\Subject Documents\IT002.O29\Practice\IT002 Prac Week 1\23521341_BT01\Bai09\Source_Bai09.cpp(9,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\Study Vault\Subject Documents\IT002.O29\Practice\IT002 Prac Week 1\23521341_BT01\Bai09\Source_Bai09.cpp(40,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bai09.vcxproj -> D:\Document\Study Vault\Subject Documents\IT002.O29\Practice\IT002 Prac Week 1\23521341_BT01\x64\Debug\Bai09.exe

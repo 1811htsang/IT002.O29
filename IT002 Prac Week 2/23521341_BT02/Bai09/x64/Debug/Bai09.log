@@ -1,0 +1,4 @@
+﻿  circle.cpp
+D:\Document\Code\IT002 Practice\IT002 Prac Week 2\23521341_BT02\Bai09\circle.cpp(7,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\Code\IT002 Practice\IT002 Prac Week 2\23521341_BT02\Bai09\circle.cpp(20,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bai09.vcxproj -> D:\Document\Code\IT002 Practice\IT002 Prac Week 2\23521341_BT02\x64\Debug\Bai09.exe
